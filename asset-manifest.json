@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/leafy/static/css/main.e6c13ad2.css",
+    "main.js": "/leafy/static/js/main.888b5851.js",
+    "static/js/787.b90c658e.chunk.js": "/leafy/static/js/787.b90c658e.chunk.js",
+    "static/media/lavender_video.mp4": "/leafy/static/media/lavender_video.637404989fb7a0e656db.mp4",
+    "index.html": "/leafy/index.html",
+    "main.e6c13ad2.css.map": "/leafy/static/css/main.e6c13ad2.css.map",
+    "main.888b5851.js.map": "/leafy/static/js/main.888b5851.js.map",
+    "787.b90c658e.chunk.js.map": "/leafy/static/js/787.b90c658e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.888b5851.js"
+  ]
+}
