@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/leafy/static/css/main.1b36f50d.css",
-    "main.js": "/leafy/static/js/main.f8f0c482.js",
+    "main.css": "/leafy/static/css/main.f55ad2cf.css",
+    "main.js": "/leafy/static/js/main.04b36f86.js",
     "static/js/787.b90c658e.chunk.js": "/leafy/static/js/787.b90c658e.chunk.js",
     "static/media/lavender_video.mp4": "/leafy/static/media/lavender_video.637404989fb7a0e656db.mp4",
     "static/media/logo2.jpg": "/leafy/static/media/logo2.dd906738eb0b89fc9e54.jpg",
     "index.html": "/leafy/index.html",
-    "main.1b36f50d.css.map": "/leafy/static/css/main.1b36f50d.css.map",
-    "main.f8f0c482.js.map": "/leafy/static/js/main.f8f0c482.js.map",
+    "main.f55ad2cf.css.map": "/leafy/static/css/main.f55ad2cf.css.map",
+    "main.04b36f86.js.map": "/leafy/static/js/main.04b36f86.js.map",
     "787.b90c658e.chunk.js.map": "/leafy/static/js/787.b90c658e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b36f50d.css",
-    "static/js/main.f8f0c482.js"
+    "static/css/main.f55ad2cf.css",
+    "static/js/main.04b36f86.js"
   ]
 }
